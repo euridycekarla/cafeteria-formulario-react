@@ -1,0 +1,140 @@
+{
+  "Clientes": [
+    {
+      "id": 1,
+      "Nome": "Euridyce",
+      "Nascimento": "2000-04-08",
+      "email": "euridyce@hotmail.com",
+      "cep": "58200-000"
+    },
+    {
+      "Nome": "Jardiel Carlos",
+      "Nascimento": "2002-06-16",
+      "email": "jardielcarlos@hotmail.com",
+      "cep": "58200-000",
+      "id": 2
+    },
+    {
+      "Nome": "Lília",
+      "Nascimento": "2001-04-26",
+      "email": "lilia@hotmail.com",
+      "cep": "58200-000",
+      "id": 3
+    },
+    {
+      "Nome": "Alysson",
+      "email": "alysson@gmail.com",
+      "Nascimento": "2003-11-21",
+      "cep": "58200-000",
+      "id": 6
+    },
+    {
+      "Nome": "Lais",
+      "email": "lais@gmail.com",
+      "Nascimento": "1996-02-02",
+      "cep": "58065-140",
+      "id": 7
+    },
+    {
+      "Nome": "Ênio",
+      "email": "enio@gmail.com",
+      "Nascimento": "1998-09-23",
+      "cep": "58065-140",
+      "id": 8
+    },
+    {
+      "Nome": "Joalison ",
+      "email": "joalison@gmail.com",
+      "Nascimento": "2001-03-14",
+      "cep": "58200-000",
+      "id": 9
+    },
+    {
+      "Nome": "Diego",
+      "email": "diego@gmail.com",
+      "Nascimento": "1996-11-15",
+      "cep": "58065-140",
+      "id": 10
+    },
+    {
+      "Nome": "Rhavy",
+      "email": "rhavy@gmail.com",
+      "Nascimento": "1989-08-23",
+      "cep": "58065-140",
+      "id": 11
+    },
+    {
+      "Nome": "Samira",
+      "email": "samira@gmail.com",
+      "Nascimento": "2002-10-10",
+      "cep": "58200-000",
+      "id": 12
+    },
+    {
+      "Nome": "Karyllorranne",
+      "email": "karryllorranne@gmail.com",
+      "Nascimento": "2000-03-23",
+      "cep": "58200-000",
+      "id": 13
+    },
+    {
+      "Nome": "Auleanne ",
+      "email": "auleanne@gmail.com",
+      "Nascimento": "1998-09-29",
+      "cep": "58065-140",
+      "id": 14
+    }
+  ],
+  "Fornecedores": [
+    {
+      "Produto": "feijão carioca",
+      "Quantidade": "20",
+      "Marca": "Tio João",
+      "id": 2
+    }
+  ],
+  "Delivery": [
+    {
+      "Quantidade de entregas": "7",
+      "Cidade": "Guarabira",
+      "Quantidade de entregadores": "3",
+      "id": 1
+    },
+    {
+      "Quantidade de entregas": "4",
+      "Cidade": "Alagoa Grande",
+      "Quantidade de entregadores": "2",
+      "id": 2
+    },
+    {
+      "Quantidade de entregas": "6",
+      "Cidade": "Alagoa Grande",
+      "Quantidade de entregadores": "2",
+      "id": 3
+    }
+  ],
+  "Entregadores": [
+    {
+      "Nome": "Fábia",
+      "cpf": "091.948.284-89",
+      "Salário": "1.424,00",
+      "id": 1
+    },
+    [null, null],
+    [null, null],
+    [
+      {
+        "Nome": "Ênio",
+        "cpf": "091.432.284-89",
+        "Salário": "1.424,00",
+        "id": 3
+      },
+      {
+        "Nome": "Joalison",
+        "cpf": "061.432.284-81",
+        "Salário": "1.424,00",
+        "id": 4
+      }
+    ]
+  ]
+}
